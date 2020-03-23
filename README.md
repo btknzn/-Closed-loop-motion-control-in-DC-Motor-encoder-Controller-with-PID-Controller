@@ -1,6 +1,6 @@
 # -Closed-loop-motion-control-in-DC-Motor-encoder-Controller-with-PID-Controller
  Closed-loop motion control in DC Motor (encoder Controller) with PID Controller
-
+Tinkercadlink:https://www.tinkercad.com/things/2Z1cT1oNstr-pid-dc-encodermotor/editel?sharecode=E063SChqkMQquGKMy7anisIYiJHHZ3HpF69f07lPn18=
 
 Project Aim: 
  Closed-loop motion control in DC Motor (encoder Controller) with PID Controller
@@ -22,3 +22,4 @@ For 360 degree target value, it stopped 359.99 degre
 Please be note that, you should change in code the variables’ (targetDeg) value to see our system behavior in other angles.
 
 
+You can see our code in copy_of_dc_motor_encoder_1
